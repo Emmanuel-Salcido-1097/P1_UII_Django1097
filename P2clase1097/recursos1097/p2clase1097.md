@@ -1,0 +1,14 @@
+- Crear aplicacion salcidoclase_app
+- comando --> python manage.py startapp salcidoclase_app
+- Creamos el archivo urls.py en salcidoclase_app
+- ![alt text](image-2.png)
+- En setting.py de p2clase1097
+- ![alt text](image-3.png)
+- En urls.py de p2clase1097
+- ![alt text](image.png)
+- En urls.py en salcidoclase_app
+- ![alt text](image-1.png)
+- En views.py en salcidoclase_app
+- ![alt text](image-4.png)
+- En urls.py en salcidoclase_app
+- ![alt text](image-5.png)
